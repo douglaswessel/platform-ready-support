@@ -6,5 +6,5 @@ All notable changes to Platform Ready will be documented in this file.
 - Initial setup for support repository.
 - Added SUPPORT.md, privacy policy, and data deletion documentation.
 
-## [1.0.0] - YYYY-MM-DD
+## [1.0.2] - 2025-08-29
 - Initial release of Platform Ready app.
