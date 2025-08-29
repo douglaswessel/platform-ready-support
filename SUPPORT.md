@@ -1,7 +1,3 @@
----
-title: Platform Ready — Support
----
-
 # Platform Ready — Support
 
 **Your meet-day coach, in your pocket.**  
