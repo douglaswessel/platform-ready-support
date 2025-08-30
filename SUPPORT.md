@@ -6,7 +6,7 @@ If you need help, start here or open a ticket.
 ## Quick Links
 - **Report an issue** → https://github.com/douglaswessel/platform-ready-support/issues/new/choose
 - **Feature request** → https://github.com/douglaswessel/platform-ready-support/issues/new?labels=feature&template=feature_request.md
-- **Email** → platformready@gmail.com
+- **Email** → platformreadyapp@gmail.com
 - **Changelog** → ./changelog.md
 - **Privacy Policy** → ./privacy.md
 - **Data Deletion** → ./data-deletion.md
