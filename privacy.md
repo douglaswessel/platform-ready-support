@@ -13,4 +13,4 @@ Platform Ready does not collect, store, or share personal data outside your devi
 - No data is shared with third parties.
 
 ## Contact
-If you have privacy concerns, reach out at platformready@gmail.com.
+If you have privacy concerns, reach out at platformreadyapp@gmail.com.
